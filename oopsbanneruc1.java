@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 public class OOPSBannerApp {
 
    
@@ -8,3 +9,5 @@ public class OOPSBannerApp {
         System.out.println("OOPS");
     }
 }
+=======
+>>>>>>> feature/UC2-BannerFormat
